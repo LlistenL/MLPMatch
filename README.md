@@ -1,2 +1,2 @@
-# DBP: Diverse Behavior Patterns in Co-Training for Semi-supervised Semantic Segmentation  
+# Revisiting Network Perturbation for Semi-Supervised Semantic Segmentation
 The code will be available soon.
